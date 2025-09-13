@@ -1,0 +1,10 @@
+This is a sample text file that can be used for testing the file reading functionality.
+It contains multiple lines of text to demonstrate the server's capabilities.
+
+Sample content:
+- Line 1: Hello World
+- Line 2: This is a test document
+- Line 3: PDF functionality is now available
+- Line 4: The MCP server can read various file formats
+
+End of sample content.
